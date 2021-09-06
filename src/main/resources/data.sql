@@ -1,0 +1,3 @@
+INSERT INTO PEDIDO(preco_pedido, data_pedido, data_entrega_pedido, status_pedido) VALUES ('59.90', '2021-08-28 19:00:00', '2021-09-12 10:30:00', 'PAGO');
+INSERT INTO PEDIDO(preco_pedido, data_pedido, data_entrega_pedido, status_pedido) VALUES ('1200.00', '2021-06-12 14:26:00', '2021-11-25 18:00:00', 'ORCAMENTO');
+INSERT INTO PEDIDO(preco_pedido, data_pedido, data_entrega_pedido, status_pedido) VALUES ('750.00', '2021-07-05 20:10:00', '2021-08-09 14:00:00', 'ENTREGUE');
